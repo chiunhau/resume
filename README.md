@@ -44,6 +44,6 @@ Email：chiunhauy@gmail.com<br/>
 Chrome Extension，可以追蹤上網情形，將使用者瀏覽不同網站的時間視覺化呈現在新分頁，使用 D3.js。[source code](https://github.com/chiunhau/TimeFlow)
 
 ## 社群分享
-- SITCON 2018：奔跑吧！台北，遊戲開發心得分享
+- [SITCON 2018：奔跑吧！台北，遊戲開發心得分享](https://sitcon.org/2018/#/agenda/sub/d946b6e1-d826-4c64-86a4-bf013bcc0c06)
 - [SITCON 2017：寫寫你的美好：一起打造「藝術產生器」吧！](https://github.com/chiunhau/sitcon2017)
 - [SITCON 2016：藝術家也為之瘋狂的 JS Library](https://github.com/chiunhau/sitcon2016)
