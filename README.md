@@ -1,9 +1,12 @@
+游宭鎬（Chiunhau You）<br/>
+Email：chiunhauy@gmail.com<br/>
+
 ## 工作經歷
 ### 前端工程師@簡訊設計 Simpleinfo Design
-
 2017/05 - 2018/05
+開發互動式與內容網站，能獨立分析、解決前端為主的網頁需求，並擔任設計師與工程師之間的溝通橋樑。亦負責研究新技術與生產力工具，並整理回饋給管理者。
 - [奔跑吧！台北](http://game.glory.taipei/)：柯文哲施政三週年網頁遊戲，擔任主前端工程師，負責架構設計、遊戲開發、互動設計，技術使用 Pixi.js。
-- [新活水官網](https://www.fountain.org.tw/)：主前端工程師，藉此建立了一套 React 系的開發流程、前端架構等模式。技術使用 React&Redux。
+- [新活水官網](https://www.fountain.org.tw/)：新活水雜誌的內容平台，擔任主前端工程師，藉此建立了一套 React 系的開發流程、前端架構等模式。技術使用 React&Redux。
 
 ### 設計部長@TEDxNTUST
 2015/08 - 2017/11<br/>
@@ -31,7 +34,7 @@
 
 ## 自主專案
 #### [p5-manager](https://github.com/chiunhau/p5-manager)
-獨立開發的 NPM package，是 p5.js 的目的在於解決 p5.js 互動設計專案的快速開發需求，功能包含 CLI 工具、模板產生指令、Express 伺服器環境、Babel ES6 即時編譯、專案管理 GUI。技術則使用了 Vuejs、Express、Commander。
+獨立開發的 NPM package，目的在於解決 p5.js 互動設計專案的快速開發需求，功能包含 CLI 工具、模板產生指令、Express 伺服器環境、ES6 即時編譯、專案管理 GUI。技術使用 Vuejs、Express、Commander。
 
 #### [暑假去哪玩](http://strokes.herokuapp.com)
 幫你找出跟你姓名筆畫數一樣多的台灣地名，然後自己去冒險吧！使用 Rails，以及政府資料開放平臺的地名資料。請耐心等候 heroku 的緩慢。[source code](https://github.com/chiunhau/strokes)
